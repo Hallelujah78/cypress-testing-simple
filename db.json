@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "todo": "item 1"
+    },
+    {
+      "id": 2,
+      "todo": "item 2"
+    },
+    {
+      "id": 3,
+      "todo": "item 3"
+    },
+    {
+      "id": 4,
+      "todo": "item 4"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "jsx": "react",
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "types": ["cypress"]
+  },
+  "include": [
+    "src/**/*.js",
+    "src/**/*.jsx",
+    "cypress/**/*.js",
+    "cypress/**/*.jsx",
+    "./node_modules/cypress"
+  ],
+  "exclude": ["node_modules", "dist", "build", ".vite"]
+}
